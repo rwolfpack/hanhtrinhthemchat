@@ -55,7 +55,7 @@
 .voyagers-section .voyager-slogan-screen {
     background-position-x: center;
     background-position-y: bottom;
-    background-image: url('/static/img/voyagers/main-voyagers-slogame-map-bg.png');
+    background-image: url('/public/img/voyagers/main-voyagers-slogame-map-bg.png');
     background-color: #7e1f1f;
     background-size: cover;
 }
@@ -171,7 +171,7 @@ body .green-banana-txt, html .green-banana-txt {
 }
 
 .start-northernmost-ha-giang .introduction-column .detail-content {
-    background: url('/static/img/voyagers/main-start-northernmost-ha-giang.png');
+    background: url('/public/img/voyagers/main-start-northernmost-ha-giang.png');
     background-position-x: center;
     background-position-y: bottom;
     background-size: cover;
@@ -340,7 +340,7 @@ body .green-banana-txt, html .green-banana-txt {
 }
 
 .end-northernmost-ha-giang .bg-layer {
-    background: url('/static/img/voyagers/end-northernmost-ha-giang.png');
+    background: url('/public/img/voyagers/end-northernmost-ha-giang.png');
     background-position-x: center;
     background-position-y: bottom;
     background-size: cover;
